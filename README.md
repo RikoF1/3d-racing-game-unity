@@ -1,6 +1,6 @@
 # 3d-racing-game-unity
 
-3D racing game 
+3D Racing game created for CM4114 - Games Development using Unity and C# language. The deployment application had to run properly on Windows or MacOS. Here is a brief video explaining what the requirements were, which ones were met and which raised problems that were encountered during development.
 
 https://user-images.githubusercontent.com/14131412/191022222-5adcc110-e2ef-4af1-b820-3805d873846f.mp4
 
